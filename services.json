@@ -1,0 +1,40 @@
+[
+  {
+    "name": "UNITED STATES",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-1087",
+    "countryCode": "us"
+  },
+  {
+    "name": "UNITED STATES",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443/?outline1&prefix%16%03%01%00%C2%A8%01%01#United States%20#26657%20/%20OutlineKeys.com",
+    "countryCode": "us"
+  },
+  
+  {
+    "name": "NETHERLANDS",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#Netherlands%20#28608%20/%20OutlineKeys.com",
+    "countryCode": "nl"
+  },
+  {
+    "name": "NETHERLANDS",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Netherlands%20#21235%20/%20OutlineKeys.com",
+    "countryCode": "nl"
+  },
+ 
+  {
+    "name": "SWITZERLAND",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@23.166.88.82:8080#Switzerland%20#28609%20/%20OutlineKeys.com",
+    "countryCode": "ch"
+  },
+  {
+    "name": "FINLAND",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#Finland%20#21292%20/%20OutlineKeys.com",
+    "countryCode": "fi"
+  },
+  
+  {
+    "name": "CANADA",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0234",
+    "countryCode": "ca"
+  }
+]
